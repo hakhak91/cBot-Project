@@ -1,6 +1,6 @@
 import sys
 sys.path.append('cBot-Project/utilities')
-from custom_indicators import CustomIndocators as ci
+from custom_indicators import CustomIndicators as ci
 from spot_ftx import SpotFtx
 import pandas as pd
 import ta
